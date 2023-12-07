@@ -1,0 +1,13 @@
+When Using the plugin in another website
+
+1.	The Plugin size is more than 2MB usually people don’t prefer large size files because if the files in our website is larger that affects our site speed. 
+2.	After creating and publish the event when we click on view event it showing error like below.
+
+ 
+
+When using the plugin in wp event manager demo
+1.	Without ending the event it showing that This meeting has been ended by the host.
+2.	Downloading Events icall is didn’t download the data.
+3.	When we click on edit event from events page there is no option to change dates 
+4.	While creating event why event end time is till 11:30AM only
+
